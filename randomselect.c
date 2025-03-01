@@ -3,7 +3,7 @@
 
 int main(void)
 {
-    printf("Please press the green button below.")
+    printf("Please press the green button below.");
     int num, result;
     num=rand();
     result=num%11;
